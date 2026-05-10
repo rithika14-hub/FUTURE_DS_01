@@ -28,7 +28,10 @@ This project focuses on analyzing Superstore sales data to understand business p
 - Region-wise Insights
 - Interactive Slicers
 
-## Dashboard
+## Dashboard Preview
+
+![Dashboard](Image/sales_dashboard.png)
+
 
 ## Key Insights
 - High-performing regions contributed major sales
@@ -45,5 +48,6 @@ notebooks/ → Colab notebooks
 
 ## Conclusion
 This project improved my skills in data analysis, visualization, dashboard development, and business decision-making.
+
 ## Author
 Amirtha Rithika P
