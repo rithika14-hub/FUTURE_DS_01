@@ -28,6 +28,9 @@ This project focuses on analyzing Superstore sales data to understand business p
 - Region-wise Insights
 - Interactive Slicers
 
+## Dashboard
+![Dashboard](Images/Dashboard overview.png).
+
 ## Key Insights
 - High-performing regions contributed major sales
 - Technology category showed strong growth
